@@ -16,6 +16,4 @@ public class FunctionTest {
     public void Wrong_Score_Stay(){
 
     }
-
-
 }
